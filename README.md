@@ -6,4 +6,4 @@ This repository contains my analysis and reports of various famous physics exper
 - Optical Pumping
 - Hall Effect in Semiconductor
 
-<i><b>Discliamer: Use at your discretion.</b></i>
+<b>Disclaimer: <i>Use at your discretion.</i></b>
